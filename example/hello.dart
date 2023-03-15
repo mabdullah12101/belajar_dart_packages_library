@@ -5,5 +5,4 @@ void main() {
 
   var customer = Customer();
   var product = Product();
-  var categoty =
 }
